@@ -1,0 +1,52 @@
+{
+    "pantalones": [
+        {
+            "id": 1,
+            "modelo": "Pantalón Casual",
+            "precio": 29.99,
+            "talle": "S",
+            "stock": 10,
+            "imagen": "./imagenes/PantalonCasual.png"
+        },
+        {
+            "id": 2,
+            "modelo": "Pantalón Deportivo",
+            "precio": 39.99,
+            "talle": "M",
+            "stock": 8,
+            "imagen": "./imagenes/PantalonDeportivo.png"
+        },
+        {
+            "id": 3,
+            "modelo": "Pantalón Formal",
+            "precio": 49.99,
+            "talle": "L",
+            "stock": 4,
+            "imagen": "./imagenes/PantalonFormal.png"
+        },
+        {
+            "id": 4,
+            "modelo": "Bermuda",
+            "precio": 19.99,
+            "talle": "XL",
+            "stock": 4,
+            "imagen": "./imagenes/Bermuda.png"
+        },
+        {
+            "id": 5,
+            "modelo": "Short De Playa",
+            "precio": 19.99,
+            "talle": "S",
+            "stock": 7,
+            "imagen": "./imagenes/ShortDePlaya.png"
+        },
+        {
+            "id": 6,
+            "modelo": "Pantalón Urbano",
+            "precio": 19.99,
+            "talle": "M",
+            "stock": 7,
+            "imagen": "./imagenes/PantalonUrbano.png"
+        }
+    ]
+}
